@@ -1,36 +1,36 @@
-Catergories of operators
+// Catergories of operators
 
-Assignment =
-Arithmetic + - * / %
-var m = 10 % 3;
-console.log(m);
-
-
-Increment / Decrement ++ --
-var a = 1;
-a++;
-console.log(a++);
-console.log(++a);
-console.log(a);
+// Assignment =
+// Arithmetic + - * / %
+// var m = 10 % 3;
+// console.log(m);
 
 
-String '' +
-
-Precedence
-var b = (1 + 2) * 3;
-console.log(b);
-
-
-Function invocation operators ()
-console.log('')
+// Increment / Decrement ++ --
+// var a = 1;
+// a++;
+// console.log(a++);
+// console.log(++a);
+// console.log(a);
 
 
-Logical  amd : && or: ||
+// String '' +
 
-Member accessor operators .
-console.log()
+// Precedence
+// var b = (1 + 2) * 3;
+// console.log(b);
 
-Code block operators { }
+
+// Function invocation operators ()
+// console.log('')
 
 
- Array element access operators []
+// Logical  amd : && or: ||
+
+// Member accessor operators .
+// console.log()
+
+// Code block operators { }
+
+
+//  Array element access operators []
